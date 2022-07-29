@@ -1,8 +1,6 @@
 import computation
 
-print("Hello Harvard and the world !")
-
-
+print("Hello Harvard !")
 
 print("I'm editing on Vim")
 print("But I prefer VS Code")
