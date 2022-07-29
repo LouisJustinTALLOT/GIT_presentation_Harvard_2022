@@ -7,3 +7,6 @@ print(computation.add(1, 2))
 
 print("Using the sub function : ")
 print(computation.sub(1, 2))
+
+print("Using the mul function : ")
+print(computation.mul(1, 2))
